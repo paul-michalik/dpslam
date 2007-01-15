@@ -52,7 +52,7 @@
         balanced tree, indexed on a unique ID assigned to each
         particle.  The computer science part of the DP-SLAM project
         involves the algorithms and analysis to show that these data
-        structures can be maintained efficiently
+        structures can be maintained efficiently.
 	</description>
 
 	<image> 
