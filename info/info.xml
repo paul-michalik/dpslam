@@ -83,7 +83,7 @@
 		<authorlist>Austin Eliazar, Ronald Parr</authorlist>
 		<publishedin>IJCAI</publishedin>
 		<year>2003</year>
-		<url><http://www.cs.duke.edu/%7Eparr/ijcai03.ps.gz</url>
+		<url>http://www.cs.duke.edu/%7Eparr/ijcai03.ps.gz</url>
 	</paper>
 	<paper>
 		<title>DP-SLAM 2.0</title>
