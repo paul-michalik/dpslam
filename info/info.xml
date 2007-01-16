@@ -12,6 +12,8 @@
 		<url>http://www.cs.duke.edu/%7Eparr</url>
 	</author>
 
+	<url>http://www.cs.duke.edu/~parr/dpslam/</url>
+
         <briefdescription>
 	 DP-SLAM aims to achieve truly simultaneous localization and
 	 mapping without landmarks. While DP-SLAM is compatible with
